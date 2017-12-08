@@ -1,5 +1,4 @@
 # Ping-Traceroute
-README.txt
 
 Both the programs have been developed and tested in Windows environment.
 Raw sockets have been used to create ICMP packets so that these programs work like the ping and tracert (trace route application in Windows)

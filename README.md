@@ -6,7 +6,7 @@ Raw sockets have been used to create ICMP packets so that these programs work li
 In Mac or Linux environment, we need root privileges.
 If python command does not work, try python3 command
 
-=================================================================
+
 darryl_ping.py:
 =================================================================
 
@@ -22,7 +22,6 @@ On Mac try the following command:
 	sudo python3 darryl_ping.py target_name
 
 
-=================================================================
 darryl_traceroute.py
 =================================================================
 

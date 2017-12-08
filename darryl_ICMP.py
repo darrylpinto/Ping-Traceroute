@@ -1,7 +1,6 @@
 __author__ = "Darryl Pinto"
 
 """
-
 This program contains the method to create a ICMP echo packet.
 The ping and traceroute applications import
 get_ICMP_echo method to create ICMP packets
